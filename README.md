@@ -1,5 +1,5 @@
 ### NATHER NABEEL S.A.C
-### REG NO:
+### REG NO: 24900919
 # HALF ADDER SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
