@@ -2,7 +2,7 @@
 ### REG NO: 24900919
 # EXP : 3
 
-Implementation of Half Adder and Half Subtractor circuit
+#Implementation of Half Adder and Half Subtractor circuit
 
 **AIM:**
 
